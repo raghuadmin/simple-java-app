@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to My Sample Maven Deployment !!! </h1>
+<h1> Hello, Welcome to My Simple Maven Deployment !!! </h1>
 
